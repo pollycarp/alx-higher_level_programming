@@ -1,1 +1,1 @@
-This project introduce me to python programming language 
+This project introduced me to python programming language 
